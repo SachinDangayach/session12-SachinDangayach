@@ -17,16 +17,16 @@ Build the package with following structure
 **Calculator**
 - \_\_init.py__
 - math_func (contains following modules)
---	sin
--- cos
--- tan
--- tanh
--- sigmoid
--- softmax
--- relu
--- euler
--- log
--- \__init__.py
+  -	sin
+  - cos
+  - tan
+  - tanh
+  - sigmoid
+  - softmax
+  - relu
+  - euler
+  - log
+  - \__init__.py
 - derivatives module to expose derivative functions inside math_func
 - helper module for formatted output using f string
 
